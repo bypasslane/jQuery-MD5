@@ -1,0 +1,23 @@
+{
+  "name": "jQuery-MD5",
+  "homepage": "https://github.com/bypasslane/jQuery-MD5",
+  "authors": [
+    "Sebastian Tschan"
+  ],
+  "description": "",
+  "main": "jquery.md5.js",
+  "moduleType": ["globals"],
+  "keywords": [
+    "jquery",
+    "md5"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
